@@ -81,7 +81,7 @@ toggleBtn.TextColor3 = Color3.new(1,1,1)
 toggleBtn.TextSize = 18
 
 -- Input + Add
-local input = Instance.new("TextBox")
+local input = Instance.new("Username")
 input.Parent = frame
 input.Size = UDim2.new(0.6, 0, 0, 35)
 input.Position = UDim2.new(0.05, 0, 0, 100)
